@@ -15,6 +15,7 @@
  * that way it keeps the fader functionaly if MIDI not used
  * 
  * all documentation is on github
+ * https://github.com/bastl-instruments/VT-3-MIDI-hack 
  * 
  */
 #include <SoftwareSerial.h>
