@@ -17,6 +17,15 @@
  * all documentation is on github
  * https://github.com/bastl-instruments/VT-3-MIDI-hack 
  * 
+ * upload firmware to Attiny 85 using this tutorial
+ * http://highlowtech.org/?p=1695
+ * do not forget to “burn bootloader” to make it run at 8MHz internal clock
+ * 
+ * I do NOT take any responsibility of YOU breaking your instruments 
+ * and I do NOT provide any warranty
+ * and I do NOT provide any technical support. 
+ * use it well to make the world a better place
+ * Peace
  */
 #include <SoftwareSerial.h>
 #include <MIDI.h>
